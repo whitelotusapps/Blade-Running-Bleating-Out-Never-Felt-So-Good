@@ -22,8 +22,6 @@ Yet, I am a computer nerd at heart - and, yeah, I enjoy AI too. So, I said fuck 
 
 **Blade Running: Bleating Out Never Felt So Good** is an album that explores some dark ass material. It's blunt, to the point, and rather pedestrian in its approach. And while I **do** honor individual sovereignty, I feel compelled to say this (perhaps as a little CYA, or CMA (cover **my** ass)): Look, this project explores what **I** needed to explore within myself. Perhaps you find something in it for you too. Thing is, your choices are **just that** - they are **your choices**. If you're thinking about knocking on heaven's door, please check out the mental health resources below. Or Google that shit, and find a mental health professional to speak with.
 
-By the way, that license link at the top of this page will provide you the details regarding what license this album is released under.
-
 Alright, my 'tism has info dumped enough.
 
 ✌️
