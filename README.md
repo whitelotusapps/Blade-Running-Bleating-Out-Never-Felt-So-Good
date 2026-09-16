@@ -39,18 +39,18 @@ Alright, my 'tism has info dumped enough.
 
 ## `Blade Running: Bleating Out Never Felt So Good`
 
-| Track # | Title                                                                                | Duration  | Formats                                                                                                    |
-| ------- | ------------------------------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------- |
-| 01      | [Date With Destiny](<./LYRICS.md#01---date-with-destiny>)                            | 3:24      | [MP3](<MP3/01 - Date With Destiny.mp3>), [WAV](<WAV/01 - Date With Destiny.wav>)                           |
-| 02      | [I Stopped Dreaming](<./LYRICS.md#02---i-stopped-dreaming>)                          | 3:17      | [MP3](<MP3/02 - I Stopped Dreaming.mp3>), [WAV](<WAV/02 - I Stopped Dreaming.wav>)                         |
-| 03      | [Letting Go (Every Day Fool)](./LYRICS.md#03---letting-go-every-day-fool)            | 4:51      | [MP3](<MP3/03 - Letting Go (Every Day Fool).mp3>), [WAV](</WAV/03 - Letting Go (Every Day Fool).wav>)      |
-| 04      | [When is it Over?](<./LYRICS.md#04---when-is-it-over>)                               | 3:39      | [MP3](<MP3/04 - When is it Over.mp3>), [WAV](<WAV/04 - When is it Over.wav>)                               |
-| 05      | [Some Things Should Never Start](<./LYRICS.md#05----some-things-should-never-start>) | 4:08      | [MP3](<MP3/05 - Some Things Should Never Start.mp3>), [WAV](<WAV/05 - Some Things Should Never Start.wav>) |
-| 06      | [The Suffering Never Ends](<./LYRICS.md#06----the-suffering-never-ends>)             | 4:01      | [MP3](<MP3/06 - The Suffering Never Ends.mp3>), [WAV](<WAV/06 - The Suffering Never Ends.wav>)             |
-| 07      | [I'm Thinking About it Now](<./LYRICS.md#07---im-thinking-about-it-now>)             | 2:54      | [MP3](<MP3/07 - I'm Thinking About it Now.mp3>), [WAV](<WAV/07 - I'm Thinking About it Now.wav>)           |
-| 08      | [Most Humans](<./LYRICS.md#08---most-humans>)                                        | 3:38      | [MP3](<MP3/08 - Most Humans.mp3>), [WAV](<WAV/08 - Most Humans.wav>)                                       |
-| 09      | [Can You Relate?](<./LYRICS.md#09---can-you-relate>)                                 | 3:29      | [MP3](<MP3/09 - Can You Relate.mp3>), [WAV](<WAV/09 - Can You Relate.wav>)                                 |
-| 10      | [Justified](<./LYRICS.md#10---justified>)                                            | 3:47      | [MP3](<MP3/10 - Justified.mp3>), [WAV](<WAV/10 - Justified.wav>)                                           |
-|         | **TOTAL DURATION**                                                                   | **37:12** |                                                                                                            |
+| Track # | Title                                                                               | Duration  | Formats                                                                                                    |
+| ------- | ----------------------------------------------------------------------------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
+| 01      | [Date With Destiny](<./LYRICS.md#01---date-with-destiny>)                           | 3:24      | [MP3](<MP3/01 - Date With Destiny.mp3>), [WAV](<WAV/01 - Date With Destiny.wav>)                           |
+| 02      | [I Stopped Dreaming](<./LYRICS.md#02---i-stopped-dreaming>)                         | 3:17      | [MP3](<MP3/02 - I Stopped Dreaming.mp3>), [WAV](<WAV/02 - I Stopped Dreaming.wav>)                         |
+| 03      | [Letting Go (Every Day Fool)](./LYRICS.md#03---letting-go-every-day-fool)           | 4:51      | [MP3](<MP3/03 - Letting Go (Every Day Fool).mp3>), [WAV](</WAV/03 - Letting Go (Every Day Fool).wav>)      |
+| 04      | [When is it Over?](<./LYRICS.md#04---when-is-it-over>)                              | 3:39      | [MP3](<MP3/04 - When is it Over.mp3>), [WAV](<WAV/04 - When is it Over.wav>)                               |
+| 05      | [Some Things Should Never Start](<./LYRICS.md#05---some-things-should-never-start>) | 4:08      | [MP3](<MP3/05 - Some Things Should Never Start.mp3>), [WAV](<WAV/05 - Some Things Should Never Start.wav>) |
+| 06      | [The Suffering Never Ends](<./LYRICS.md#06----the-suffering-never-ends>)            | 4:01      | [MP3](<MP3/06 - The Suffering Never Ends.mp3>), [WAV](<WAV/06 - The Suffering Never Ends.wav>)             |
+| 07      | [I'm Thinking About it Now](<./LYRICS.md#07---im-thinking-about-it-now>)            | 2:54      | [MP3](<MP3/07 - I'm Thinking About it Now.mp3>), [WAV](<WAV/07 - I'm Thinking About it Now.wav>)           |
+| 08      | [Most Humans](<./LYRICS.md#08---most-humans>)                                       | 3:38      | [MP3](<MP3/08 - Most Humans.mp3>), [WAV](<WAV/08 - Most Humans.wav>)                                       |
+| 09      | [Can You Relate?](<./LYRICS.md#09---can-you-relate>)                                | 3:29      | [MP3](<MP3/09 - Can You Relate.mp3>), [WAV](<WAV/09 - Can You Relate.wav>)                                 |
+| 10      | [Justified](<./LYRICS.md#10---justified>)                                           | 3:47      | [MP3](<MP3/10 - Justified.mp3>), [WAV](<WAV/10 - Justified.wav>)                                           |
+|         | **TOTAL DURATION**                                                                  | **37:12** |                                                                                                            |
 
 

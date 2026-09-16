@@ -219,7 +219,7 @@ Every day I'm a fool again
 
 ---
 
-## 04 - When is it over?
+## 04 - When is it Over?
 
 ```
 [Verse 1]
@@ -301,7 +301,7 @@ When is it over?
 
 ---
 
-## 05 -  Some things should never start
+## 05 - Some Things Should Never Start
 
 ```
 [Verse 1]
@@ -370,7 +370,7 @@ Some things should never start
 
 ---
 
-## 06 -  The suffering never ends
+## 06 - The Suffering Never Ends
 
 ```
 [Verse 1]
@@ -463,7 +463,7 @@ The suffering never ends
 
 ---
 
-## 07 - I'm thinking about it now
+## 07 - I'm Thinking About it Now
 
 ```
 [Verse 1]
@@ -618,7 +618,7 @@ You may wish that you were dead
 
 ---
 
-## 09 - Can you relate
+## 09 - Can You Relate?
 
 ```
 [Verse 1]
