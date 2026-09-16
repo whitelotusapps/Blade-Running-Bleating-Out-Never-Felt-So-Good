@@ -14,7 +14,7 @@ Where do I begin? In what meaningful way do I communicate this to you? I suppose
 
 I experienced a crazy intense relationship that ended in a divorce; and that was over 3 years ago. I've been suicidal for, shit, I dunno, a long while - years at this point. I'm homeless and unemployed (intentionally - way too much to get into all of that here). I mention that because it was the rainy Thursday night of August 6th, 2026 in Overland Park, KS when I sat under some stairs, where I sleep, and at 1:37 AM I wrote the lyrics to **Date With Destiny**. That's when things started to shift inside of me. Over the next few days I kept writing. I pinned this entire album in about 3 days or so.
 
-It's not a lyrical fuckking masterpiece or anything, I'm just telling you my story.
+It's not a lyrical fucking masterpiece or anything, I'm just telling you my story.
 
 Point being: It was through writing the lyrics to this album that something started to change inside of me. I still hate (hated?) life - it's just that I don't feel as shitty about it. And, if you have any experience with some long-term, protracted bullshit in your life, then I assume you can appreciate that any form of relief was welcome. Writing was just something I started to do. I had zero intention about publishing an album.
 
