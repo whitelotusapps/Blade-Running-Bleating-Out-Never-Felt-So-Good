@@ -34,7 +34,7 @@ Alright, my 'tism has info dumped enough.
 
 ---
 
-![Project Architecture](<cover_art/Blade Running - Bleating Out Never Felt So Good.jpg>)
+![Blade Running - Bleating Out Never Felt So Good](<cover_art/Blade Running - Bleating Out Never Felt So Good.jpg>)
 
 
 ## `Blade Running: Bleating Out Never Felt So Good`
