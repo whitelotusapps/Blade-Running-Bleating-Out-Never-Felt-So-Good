@@ -12,7 +12,7 @@ Lyrics are original work by me (Zack Olinger), released under CC BY-NC-SA 4.0. T
 
 Where do I begin? In what meaningful way do I communicate this to you? I suppose I will treat this economically and let you know that I respect your time and just be blunt and straightforward about it:
 
-I experienced a crazy intense relationship that ended in a divorce; and that was over 3 years ago. I've been suicidal for, shit, I dunno, a long while - years at this point. I'm homeless and unemployed (intentionally - way too much to get into all of that here). I mention that because it was the rainy Thursday night of August 6th, 2026 in Overland Park, KS when I sat under some stairs, where I sleep, and at 1:37 AM I wrote the lyrics to **Date With Destiny**. That's when things started to shift inside of me. Over the next few days I kept writing. I pinned this entire album in about 3 days or so.
+I experienced a crazy intense relationship that ended in a divorce; and that was over 3 years ago. I've been suicidal for, shit, I dunno, a long while - years at this point. I'm homeless and unemployed (intentionally - way too much to get into all of that here). I mention that because it was the rainy Thursday night of August 6th, 2026 in Overland Park, KS when I sat under some stairs, where I sleep, and at 1:37 AM I wrote the lyrics to **Date With Destiny**. That's when things started to shift inside of me. I sat with **Date With Destiny** for a few weeks. Then on August 26th & 27th, I pinned the rest of the album...shit just kept coming out.
 
 It's not a lyrical fucking masterpiece or anything, I'm just telling you my story.
 
